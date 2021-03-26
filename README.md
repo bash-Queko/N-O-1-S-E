@@ -2,7 +2,7 @@
 
 Nested Object Inverted Search Engine
 
-This Is A Native Library Meant To Be Linked To Into Other Projects And Will Expose A C API
+This Is A Native Library Meant To Be Linked Into Other Projects And Will Expose A C API
 
 It's A Full Text Index And Query System And Query System That Understands The Semi-Structured Nature Of JSON, And Will Allow:
 
