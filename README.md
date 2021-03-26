@@ -21,7 +21,7 @@ Apache 2.0
 
 * C++ Compiler, Rustc (1.8 Nightlies), Cmake, Rocksdb, Protobuf, Yajl
 
-# X Code
+# XCode
 
 * mkdir build && cd build && cmake -G Xcode .. && open noise.xcodeproj
 
