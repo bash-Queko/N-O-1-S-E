@@ -4,7 +4,7 @@
 - INDEX.CPP -
 - 'NOISE' -
 
-Author - <Szymon Junker> || <bash-Queko@protonmail.com>
+Author - <SJ> || <bash-Queko@protonmail.com>
 Github - https://github.com/bash-Queko
 * New Github
 =======================================================
