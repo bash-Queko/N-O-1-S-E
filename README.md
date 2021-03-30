@@ -41,3 +41,7 @@ Apache 2.0
 # Troubleshooting
 
 *  Ha Ha Ha Again!
+
+# Author
+
+* SJ || bash-Queko@protonmail.com
