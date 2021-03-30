@@ -1,0 +1,7 @@
+[package]
+name = "noise"
+version = "0.1.0"
+authors = ["Szymon Junker bash-Queko@protonmail.com>"]
+
+[dependencies]
+peg = "0.3.10"
