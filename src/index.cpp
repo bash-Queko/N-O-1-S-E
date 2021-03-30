@@ -121,7 +121,7 @@ rocksdb::Status Index::Flush() {
     return status;
 }
 
-bool Index::FetchId(unit64_t seq, std::string* id) {
+bool Index::FetchId(uint64_t seq, std::string* id) {
     std::string key("S");
     key += std::to_string(seq);
     rocksdb::Status status = rocks->Get(ropt, key, id);
