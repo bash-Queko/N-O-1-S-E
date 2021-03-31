@@ -44,4 +44,8 @@ Apache 2.0
 
 # Author
 
-* SJ || bash-Queko@protonmail.com
+* <SJ> || bash-Queko@protonmail.com
+
+* https://github.com/bash-Queko/
+
+* Thank You! :)
