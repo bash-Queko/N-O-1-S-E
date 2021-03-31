@@ -50,7 +50,7 @@ Apache 2.0
 
 *  Ha Ha Ha Again!
 
-# Thank You For Checking NO1SE Out
+# Thank You For Checking Out 'NO1SE'
 
 * Hope You Enjoy! :)
 
