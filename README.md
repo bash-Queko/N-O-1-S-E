@@ -17,6 +17,14 @@ It's A Full Text Index And Query System And Query System That Understands The Se
 # License
 Apache 2.0
 
+# Author
+
+* SJ
+
+* bash-Queko@protonmail.com
+
+* https://github.com/bash-Queko/
+
 # Build Dependancies
 
 * C++ Compiler, Rustc (1.8 Nightlies), Cmake, Rocksdb, Protobuf, Yajl
@@ -42,10 +50,7 @@ Apache 2.0
 
 *  Ha Ha Ha Again!
 
-# Author
+# Thank You For Checking NO1SE Out
 
-* <SJ> || bash-Queko@protonmail.com
+* Hope You Enjoy! :)
 
-* https://github.com/bash-Queko/
-
-* Thank You! :)
