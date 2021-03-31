@@ -25,7 +25,7 @@ Apache 2.0
 
 * https://github.com/bash-Queko/
 
-# Build Dependancies
+# Build Dependencies
 
 * C++ Compiler, Rustc (1.8 Nightlies), Cmake, Rocksdb, Protobuf, Yajl
 
