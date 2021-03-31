@@ -25,6 +25,6 @@ before_install:
   - sudo dpkg -i ./librocksdb-dev_4.1-1_amd64.deb
 
 before_script:
-  - git clone https://github.com/bash-Queko/noisecpp && cd noise && mkdir build && cd build && cmake ..
+  - git clone https://github.com/bash-Queko/N-O-1-S-E && cd noise && mkdir build && cd build && cmake ..
 
 script: make -j6 && make test
